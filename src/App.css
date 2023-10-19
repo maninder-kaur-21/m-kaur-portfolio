@@ -1,0 +1,14 @@
+.cover {
+  background-image: url("./assests/images/cover.jpeg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: flex;
+  align-items: center;
+  height: 100vh;
+}
+
+.cover-text {
+  padding-left: 50px;
+  font-size: 30px;
+  color: white;
+}
